@@ -1,0 +1,11 @@
+.DS_Store
+Dockerfile
+.dockerignore
+**node_modules
+deploy.sh
+**package-lock.json
+config.js
+.firebaserc
+firebase
+firebase.json
+.firebase
